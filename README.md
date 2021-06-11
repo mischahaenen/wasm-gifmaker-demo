@@ -1,4 +1,4 @@
-# New Project
+# Trial with Snowpack, React, WASM & Tailwind
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
